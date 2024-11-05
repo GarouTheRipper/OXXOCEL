@@ -1,10 +1,10 @@
-/* Paleta de colores */
+/* Paleta de colores OXXO */
 :root {
-  --primario: #673ab7; /* Morado */
-  --secundario: #f06292; /* Rosa */
-  --acento: #00bcd4; /* Cian */
-  --fondo: #f5f5f5; /* Gris claro */
-  --texto: #333; /* Gris oscuro */
+  --primario: #FF4500;  /* Rojo OXXO */
+  --secundario: #000000; /* Negro */
+  --acento: #FFFFFF;  /* Blanco */
+  --fondo: #F5F5F5;  /* Gris claro (mantener para el fondo)*/
+  --texto: #333;    /* Gris oscuro (mantener para el texto)*/
 }
 
 body {
@@ -92,7 +92,7 @@ a {
 }
 
 a:hover {
-  color: darken(var(--acento), 10%);
+  color: darken(var(--acento), 10%); 
 }
 
 /* Responsividad */
