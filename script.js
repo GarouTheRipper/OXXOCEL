@@ -36,6 +36,9 @@ var datosSecciones = {
 
   "seccion9": [ // Apoyo Audiovisual
     { titulo: "Audios y videos", descripcion: "<a href='https://drive.google.com/drive/folders/1WvXvBuFygbwW6o3RDY73wgAdLY1yt_73?usp=sharing'>Ver</a>" },
+  ],
+  "seccion10": [ // Promociones
+    { titulo: "Promociones OXXOCEL", descripcion: "<a href='https://my.oxxocel.com/promociones'>Información</a>" }
   ]
 
 };
