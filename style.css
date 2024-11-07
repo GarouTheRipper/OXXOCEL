@@ -114,3 +114,11 @@ a:hover {
     font-size: 1.5em;
   }
 }
+
+/* Estilos para el footer */
+footer {
+  text-align: center;
+  margin-top: 20px; 
+  background-color: rgb(255, 204, 0); /* Color de fondo amarillo */
+  padding: 10px;
+}
